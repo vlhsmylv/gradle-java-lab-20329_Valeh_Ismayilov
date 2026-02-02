@@ -5,6 +5,6 @@ package org.example;
 
 public class App {
     public static void main() {
-        System.out.println("Gradle build and Git workflow successful. Nöşün?");
+        System.out.println("You are too concerned with what was and what will be. There's a saying: Yesterday is history, tomorrow is a mystery, but today is a gift. That is why it is called the present.—Oogway to Po, Kung Fu Panda");
     }
 }
